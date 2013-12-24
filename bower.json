@@ -1,0 +1,20 @@
+{
+  "name": "web-test",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ibare/web-test",
+  "authors": [
+    "ibare <ibare77@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower-components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "masonry": "~3.1.4"
+  }
+}
